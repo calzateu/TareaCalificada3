@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaCalificada3</string>
+    <string name="nombre_mascota">Nombre mascota</string>
+    <string name="item_configuracion_menu">Configuración</string>
+</resources>
